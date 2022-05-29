@@ -1,0 +1,23 @@
+{
+  "name": "trywebpack",
+  "version": "1.0.0",
+  "description": "If you are not familiar with linters, read [root level README](../README.md).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MICHAELMUNAVU83/trywebpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MICHAELMUNAVU83/trywebpack/issues"
+  },
+  "homepage": "https://github.com/MICHAELMUNAVU83/trywebpack#readme",
+  "devDependencies": {
+    "webpack": "^5.72.1"
+  }
+}

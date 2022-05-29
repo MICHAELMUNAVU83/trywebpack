@@ -1,0 +1,1 @@
+(()=>{"use strict";class t{constructor(t,e){this.author=t,this.title=e}static addauth(){document.getElementById("auth").innerHTML="bnm,",console.log("mm8hnm,")}}const e=new t("auba","laca7tyuio");document.getElementById("add").addEventListener("click",(a=>{console.log(e),a.preventDefault(),t.addauth(),console.log("lala0 ")}))})();
